@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302819368468",
+    "firebase_url": "https://root-lotus-235017.firebaseio.com",
+    "project_id": "root-lotus-235017",
+    "storage_bucket": "root-lotus-235017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302819368468:android:cc295746bf128809",
+        "android_client_info": {
+          "package_name": "com.MiniProject.ATMLocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302819368468-hfndkpumss50ieij3q3d9jklsoh4s65k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MiniProject.ATMLocator",
+            "certificate_hash": "7738fcfbabd4ef879f02cc5cc920f552632a8016"
+          }
+        },
+        {
+          "client_id": "302819368468-1ripa1ndd5bl691vnau3pgciekq68gto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQU3q9JOxAWmC0AOmC0oPWRm2SGFq3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302819368468-1ripa1ndd5bl691vnau3pgciekq68gto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

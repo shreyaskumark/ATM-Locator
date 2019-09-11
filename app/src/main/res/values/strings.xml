@@ -1,0 +1,13 @@
+<resources>
+    <string name="google_maps_api_key">AIzaSyAlQjxYhfys7ZUycb6_KWX3NAvfOeVjwvM</string>
+    <string name="app_name">ATM Locator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="signUp_form">Signup Form</string>
+    <string name="email_id">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="atm">Display Nearby ATMs</string>
+    <string name="logout">Logout</string>
+</resources>
